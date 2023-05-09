@@ -20,11 +20,7 @@ function Gallary() {
   });
 
   if (response.isLoading) {
-    return (
-      <section className="image-container">
-        <h4>Loading...</h4>
-      </section>
-    );
+    return <section className="loading"></section>;
   }
 
   if (response.isError) {
