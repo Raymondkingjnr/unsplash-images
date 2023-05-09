@@ -80,8 +80,6 @@ In order to use the Unsplash API to fetch images for your application, you will 
 
 - register an app
 
-API-KEY = TskRayKlW6x45i3XHuOyLZ4NJf5undzoWXmvbBdiiqE
-
 - authorization (hint : public authentication)
 
 - search functionality (hint : search photos)
